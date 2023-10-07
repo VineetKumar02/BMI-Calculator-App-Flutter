@@ -42,7 +42,7 @@ To begin using the BMI Calculator App project, follow these simple steps:
     - If you have Git installed, you can clone the repository using the following command:
 
         ```bash
-        git clone https://github.com/your-username/BMI-Calculator-App-Flutter.git
+        git clone https://github.com/VineetKumar02/BMI-Calculator-App-Flutter.git
         ```
 
     - After cloning, navigate to the project directory:
